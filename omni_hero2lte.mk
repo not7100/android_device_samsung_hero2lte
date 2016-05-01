@@ -10,5 +10,4 @@ $(call inherit-product, vendor/omni/config/common.mk)
 PRODUCT_DEVICE := hero2lte
 PRODUCT_NAME := omni_hero2lte
 PRODUCT_BRAND := samsung
-PRODUCT_MODEL := SM-G935F
 PRODUCT_MANUFACTURER := samsung

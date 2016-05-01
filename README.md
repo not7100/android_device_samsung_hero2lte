@@ -1,4 +1,4 @@
-## TWRP device tree for Galaxy S7 Edge (International Exynos, SM-G935F)
+## TWRP device tree for Galaxy S7 edge (International & Canadian Exynos)
 
 Add to `.repo/local_manifests/hero2lte.xml`:
 
